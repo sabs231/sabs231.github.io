@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.findmyrestaurant",
+    "sha256_cert_fingerprints":
+    ["26:1B:E5:30:A9:71:1E:ED:CA:92:F9:B7:ED:EA:02:AA:FF:C0:61:12:54:84:89:72:83:7B:F4:5A:4D:90:8A:DB"]
+  }
+}]
