@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.findmyrestaurant",
-    "sha256_cert_fingerprints":
-    ["B1:23:1B:69:C6:37:08:AB:62:59:D5:05:6E:FB:BA:82:ED:8F:93:7D:36:60:DE:09:7F:6D:75:68:E2:4F:CC:50"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.iamsabs.findmyrestaurant",
+      "sha256_cert_fingerprints":
+        ["24:28:76:C9:08:0A:07:86:89:2A:7D:0F:4F:78:B0:13:09:BC:91:49:8F:20:AC:FC:CC:09:67:6E:6C:59:CF:79"]
+    }
   }
-}]
+]
