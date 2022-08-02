@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.iamsabs.findmyrestaurant",
+      "package_name": "com.devrel.droidfood",
       "sha256_cert_fingerprints":
         [
           "24:28:76:C9:08:0A:07:86:89:2A:7D:0F:4F:78:B0:13:09:BC:91:49:8F:20:AC:FC:CC:09:67:6E:6C:59:CF:79",
