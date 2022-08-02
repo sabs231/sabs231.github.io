@@ -5,11 +5,7 @@
       "namespace": "android_app",
       "package_name": "com.devrel.droidfood",
       "sha256_cert_fingerprints":
-        [
-          "24:28:76:C9:08:0A:07:86:89:2A:7D:0F:4F:78:B0:13:09:BC:91:49:8F:20:AC:FC:CC:09:67:6E:6C:59:CF:79",
-          "C1:75:98:D9:82:0A:3B:E3:C0:30:CD:DE:85:44:F3:FC:3B:F9:C5:78:2A:12:25:06:1C:5D:7A:A8:75:6C:17:20",
-          "AC:08:43:AF:E3:B9:BD:00:7A:47:B2:F9:1F:77:23:97:CE:E3:E9:73:6E:48:D6:14:AA:79:BA:03:92:B0:68:F4"
-        ]
+        ["AC:08:43:AF:E3:B9:BD:00:7A:47:B2:F9:1F:77:23:97:CE:E3:E9:73:6E:48:D6:14:AA:79:BA:03:92:B0:68:F4"]
     }
   }
 ]
