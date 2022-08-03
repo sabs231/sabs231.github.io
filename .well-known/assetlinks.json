@@ -5,7 +5,10 @@
       "namespace": "android_app",
       "package_name": "com.devrel.droidfood",
       "sha256_cert_fingerprints":
-        ["AC:08:43:AF:E3:B9:BD:00:7A:47:B2:F9:1F:77:23:97:CE:E3:E9:73:6E:48:D6:14:AA:79:BA:03:92:B0:68:F4"]
+        [
+          "AC:08:43:AF:E3:B9:BD:00:7A:47:B2:F9:1F:77:23:97:CE:E3:E9:73:6E:48:D6:14:AA:79:BA:03:92:B0:68:F4",
+          "89:E3:11:A1:2B:0A:5F:BD:5E:B6:5C:22:85:0C:73:26:DF:65:34:22:D4:28:F4:88:89:29:B4:3C:14:C0:4B:46"
+        ]
     }
   }
 ]
